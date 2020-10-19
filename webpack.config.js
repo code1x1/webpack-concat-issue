@@ -4,4 +4,7 @@ module.exports = {
     optimization: {
         concatenateModules: true,
     },
+    externals: {
+        classnames: 'cn'
+    }
 };

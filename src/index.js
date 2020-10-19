@@ -1,3 +1,3 @@
 import { foo } from "./comp.js";
 
-console.log(foo);
+console.log(foo());

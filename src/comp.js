@@ -1,4 +1,4 @@
-import * as cn from "classnames";
+const cn = require('classnames');
 
 export function foo() {
     const classnames = cn({a: 1});

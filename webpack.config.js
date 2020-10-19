@@ -3,8 +3,5 @@ module.exports = {
     devtool: false,
     optimization: {
         concatenateModules: true,
-    },
-    externals: {
-        classnames: 'cn'
     }
 };
